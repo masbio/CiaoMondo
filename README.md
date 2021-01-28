@@ -1,2 +1,2 @@
 # CiaoMondo
-Questo è il mio primo repositery
+Questo è il mio primo repository
